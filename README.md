@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Rayfounder 👋
 
-<!--
-**rayfounderprivweb/rayfounderprivweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent Web Developer & Creator of **[PRIVweb](https://www.privweb.org)**.  
+I build lightweight, zero-config, and privacy-focused open-source web tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About PRIVweb
+**PRIVweb** is an independent project dedicated to providing zero-configuration, lightweight open-source tools under the **MIT License**.
+
+- 🔒 **Privacy-First:** Build stateless web tools without database tracking.
+- ⚡ **Zero-Config:** Plug-and-play scripts ready for immediate deployment.
+- 🛠️ **Public Utilities:** Free web tools designed for developers and general users.
+
+---
+
+### 🌐 Connect & Support
+- **Website:**
+- https://www.privweb.org
+- **Support My Work:** Buy me a coffee
+-
+- https://sociabuzz.com
+
+---
+
+> *"Security in simplicity, power in zero-config."* 
