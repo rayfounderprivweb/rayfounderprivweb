@@ -28,7 +28,7 @@ I build lightweight, zero-config, and privacy-focused open-source web tools.
 
 - crypto tip
 
-- https://nowpayment.io/donation/rayfounder
+- https://nowpayments.io/donation/rayfounder
   
 
 ---
