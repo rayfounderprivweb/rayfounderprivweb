@@ -17,9 +17,19 @@ I build lightweight, zero-config, and privacy-focused open-source web tools.
 ### 🌐 Connect & Support
 - **Website:**
 - https://www.privweb.org
-- **Support My Work:** Buy me a coffee
+- **Support My Work:**
 -
-- https://sociabuzz.com
+- Buy me a coffee
+- https://Ko-fi.com/rayfounder
+
+- Buy me a banana
+
+- https://sociabuzz.com/rayfounder/support
+
+- crypto tip
+
+- https://nowpayment.io/donation/rayfounder
+  
 
 ---
 
